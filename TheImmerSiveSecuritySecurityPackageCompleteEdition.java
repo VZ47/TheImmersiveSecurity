@@ -41,5 +41,39 @@ Swap HTTP, HTTPS, SOCKS4, OpenVPN, SSH, Snowflake, IKEV2 and other ,traffic enca
 
 Make insignificant electrocurrents from various sources to prevent data leak and data access.
 
-    AutoUpdate from Source https://github.com/VZ47/TheImmersiveSecurity/blob/f7a391a20876aabf3b702fe67cf08db9ce4fb144/TheImmerSiveSecuritySecurityPackageCompleteEdition.java
+    AutoUpdate from Source https://github.com/VZ47/The-Immersive-Security-Package/blob/main/Script1.js
 Enable 0ns update mechanism
+
+
+Second part.The Immersive Antivirus.
+
+Enable MachineLearning optimisation and security improvements. This should run automatic updates to prevent hacks
+MachineLearning scripts: AI generated GlobalID group #Tag, way of intrusion, collectibles, stack and note IP address branches and add to GlobalID sets (Include TraceRoute.set.IPs, group IPs with tags. Add AI generated on what's and how hacked summary.
+
+Enable The Immersive Antivirus.
+Use MachineLearning for security updates to prevent hacks and self assigned security patches.
+
+The Immersive Antivirus Graphical Design
+
+
+Overview
+Line 1: Column 1: TrackingID(ID of intrusion), Column 2:GlobalID Task number and actions made, Column 3: YandexGPT reply of legal authorities actions.
+
+Authority actions. (Punish them bastards actions)
+Get access to intruders data.First option button "Emulate screen", Second option button "System dumb"
+Upload a file to intruders computer. Button "Upload file"
+Only I can control the computer with 12g.powersupply.enable.prevent.shutdown.Button 'Control the intruders device'
+Stealth access mode.Button "Stealth mode"
+Enable 2D command line reply of Command'Overview The Immersive Antivirus' with Line 1 table output.
+Enable "Ask YandexGPT" command to provide information upon request
+Enable Encore,.Without.Reboot
+
+
+HELP SECTION UPON help click enter
+If you ran the program TopNotch security protocol has been installed. THE REST IS PLAYABLE.
+Type Overview The Immersive Antivirus to get antivirus data.
+After studying antivirus data you can pick options which you should study by reading the code of the app 
+'Ask YandexGPT command fulfills knowledge of intrusion
+
+
+AutoUpdate TheImmer$ive$ecurity.java from https://github.com/VZ47/The-Immersive-Security-Package/blob/d8859e995d04dbdda53b9abddb0d71dceecd355e/The%20Immer%24ive%24ecurity.java
