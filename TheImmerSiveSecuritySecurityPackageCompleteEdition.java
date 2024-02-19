@@ -1,7 +1,7 @@
 TopNotch secirity protocol for Core.
 
     Apply VZ666 root priveledges for system modding.
-        Auto-Enable my GlobalID devices Script1.js installation.
+        Auto-Enable user's GlobalID devices TheImmerSiveSecuritySecurityPackageCompleteEdition.java  installation.
     Emmbed all settings into core.
 
 First part.Initial security.
@@ -9,6 +9,8 @@ First part.Initial security.
 Force OEM unlock.
 
     Random data packets size send.
+
+    Reset bootrom and EFI with standard configuration.
 
 Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers/users.
 
@@ -44,29 +46,30 @@ Make insignificant electrocurrents from various sources to prevent data leak and
     AutoUpdate from Source https://github.com/VZ47/The-Immersive-Security-Package/blob/main/Script1.js
 Enable 0ns update mechanism
 
-
 Second part.The Immersive Antivirus.
-
-Enable MachineLearning optimisation and security improvements. This should run automatic updates to prevent hacks
-MachineLearning scripts: AI generated GlobalID group #Tag, way of intrusion, collectibles, stack and note IP address branches and add to GlobalID sets (Include TraceRoute.set.IPs, group IPs with tags. Add AI generated on what's and how hacked summary.
-
 Enable The Immersive Antivirus.
-Use MachineLearning for security updates to prevent hacks and self assigned security patches.
 
-The Immersive Antivirus Graphical Design
+Enable MachineLearning optimisation, security and system improvements. This should run automatic updates to prevent hacks, eleminate bugs and zero-day vulnerabilities.
+MachineLearning scripts for The Immersive Antivirus: AI generated GlobalID group #Tag, way of intrusion, collectibles, stack and note IP address branches and add to GlobalID sets (Include TraceRoute.set.IPs, group IPs with tags. Add AI generated text on what's and how hacked summary.
+
+
+Use MachineLearning for security updates to prevent hacks and self assigned security patches.
+Use https://www.cve.org/ for extra security knowledge.
+
+The Immersive Antivirus Graphical Design (Command Line Design)
 
 
 Overview
-Line 1: Column 1: TrackingID(ID of intrusion), Column 2:GlobalID Task number and actions made, Column 3: YandexGPT reply of legal authorities actions.
+Line 1: TrackingID(ID of intrusion/hack/bug/vulnerability), Column 2:GlobalID Task number and actions made, Column 3: YandexGPT reply of legal authorities actions.
+Line 2 and so forth include the results
 
-Authority actions. (Punish them bastards actions)
-Get access to intruders data.First option button "Emulate screen", Second option button "System dumb"
-Upload a file to intruders computer. Button "Upload file"
-Only I can control the computer with 12g.powersupply.enable.prevent.shutdown.Button 'Control the intruders device'
-Stealth access mode.Button "Stealth mode"
-Enable 2D command line reply of Command'Overview The Immersive Antivirus' with Line 1 table output.
-Enable "Ask YandexGPT" command to provide information upon request
-Enable Encore,.Without.Reboot
+Authority actions (root, admin and workers only). (Punish them bastards actions) Disable authority actions on root.
+Get access to intruders data. First option button "Emulate screen in hidden mode", Second option button "System dumb download in 5g.hidden mode"
+Upload a file to intruders computer. Button "Upload file to intruder"
+Enable.12g.powersupply.mode.computer.run.in.case.shutdown. Also, prevent.reboot, prevent.complete.shutdown. Button 'Control the intruders device in case the computer runs loud and we want to keep access to device'
+Stealth access mode.Button "Stealth mode" Use IPV6 server for access.
+Enable 2D command line reply of Command'Overview The Immersive Antivirus' with Line 1 table output. This shall run table of hacks, vulnerabilities and intrusions.
+Enable "Ask YandexGPT" command to provide information upon request. Request example: AskYandexGPT on TrackingID and anything may be asked.
 
 
 HELP SECTION UPON help click enter
@@ -75,5 +78,4 @@ Type Overview The Immersive Antivirus to get antivirus data.
 After studying antivirus data you can pick options which you should study by reading the code of the app 
 'Ask YandexGPT command fulfills knowledge of intrusion
 
-
-AutoUpdate TheImmer$ive$ecurity.java from https://github.com/VZ47/The-Immersive-Security-Package/blob/d8859e995d04dbdda53b9abddb0d71dceecd355e/The%20Immer%24ive%24ecurity.java
+AutoUpdate with 0ns protocol from source https://github.com/VZ47/TheImmersiveSecurity/blob/9107b56f6e70bc62e7d53bbf949bb7844435d887/TheImmersiveAntivirus.java
