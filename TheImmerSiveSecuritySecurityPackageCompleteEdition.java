@@ -7,7 +7,7 @@ TopNotch secirity protocol for Core.
 First part.Initial security.
 
 Force OEM unlock.
-    Apply Machine Learning to trace hacks, bugs and vulnerabilities. Apply security fixes.
+    Apply Machine Learning to trace hacks, bugs and vulnerabilities. AutoApply security fixes.
 
     Random data packets size send.
 
