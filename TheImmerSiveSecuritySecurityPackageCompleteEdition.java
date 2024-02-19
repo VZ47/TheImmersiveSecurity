@@ -1,14 +1,16 @@
 TopNotch secirity protocol for Core.
 
     Apply VZ666 root priveledges for system modding.
-        Auto-Enable user's GlobalID devices TheImmerSiveSecuritySecurityPackageCompleteEdition.java  installation.
+        Auto-Enable user's GlobalID devices installation of TheImmerSiveSecuritySecurityPackageCompleteEdition.java .
     Emmbed all settings into core.
 
 First part.Initial security.
 
 Force OEM unlock.
-    Apply Machine Learning to trace hacks, bugs and vulnerabilities. AutoApply security fixes.
-
+    Apply Machine Learning to trace hacks, bugs and vulnerabilities. AutoApply security fixes and remove hacks, bugz and vulnerabilities.
+Use MachineLearning for security updates to protect system and self assign security patches.
+Use https://www.cve.org/ for extra security knowledge.
+    
     Random data packets size send.
 
     Reset bootrom and EFI with standard configuration.
