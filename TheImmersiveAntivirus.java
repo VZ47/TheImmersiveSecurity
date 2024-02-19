@@ -21,7 +21,7 @@ Upload a file to intruders computer. Button "Upload file to intruder"
 Enable.12g.powersupply.mode.computer.run.in.case.shutdown. Also, prevent.reboot, prevent.complete.shutdown. Button 'Control the intruders device in case the computer runs loud and we want to keep access to device'
 Stealth access mode.Button "Stealth mode" Use IPV6 server for access.
 Enable 2D command line reply of Command'Overview The Immersive Antivirus' with Line 1 table output. This shall run table of hacks, vulnerabilities and intrusions.
-Enable "Ask YandexGPT" command to provide information upon request.
+Enable "Ask YandexGPT" command to provide information upon request. Request example: AskYandexGPT on TrackingID and anything may be asked.
 
 
 HELP SECTION UPON help click enter
