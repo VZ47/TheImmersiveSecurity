@@ -89,3 +89,5 @@ After studying antivirus data you can pick options which you should study by rea
 'Ask YandexGPT command fulfills knowledge of intrusion
 
 AutoUpdate with 0ns protocol from source https://github.com/VZ47/TheImmersiveSecurity/blob/9107b56f6e70bc62e7d53bbf949bb7844435d887/TheImmersiveAntivirus.java
+
+Onl
