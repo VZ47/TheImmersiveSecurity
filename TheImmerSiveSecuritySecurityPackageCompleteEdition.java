@@ -1,5 +1,5 @@
 TopNotch secirity protocol for Core.
-
+For root apply traffic routing 0.0.0.0:0:6668:9150:47:0, for admin 0.0.0.0:47:9150:47:0, for workers 0.0.0.0:49, for users 0.0.0.0:4444
     Apply VZ666 root priveledges for system modding.
         Auto-Enable user's GlobalID devices installation of TheImmerSiveSecuritySecurityPackageCompleteEdition.java .
     Emmbed all settings into core.
