@@ -16,15 +16,15 @@ Use https://www.cve.org/ for extra security knowledge.
 
     Reset bootrom and EFI with standard configuration.
 
-Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers/users.
+Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers/users, 50ms for users.
 
 SSD magnetism (Magnetism from USB-C) enabled recypher every 1ns for root and 10ns for admin, 30ms for workers/users.
 
-Ban all incoming connections except ports 6668, for root users, and 8888, 9150 or 47 for admin users.
+Ban all incoming connections except ports 6668 and 0, for root users, and 8888, 9150 or 47 for admin users.
 
 Enable SHA1 encryption on all device.This will break all intruder's proccessors, transistors and remove all intruders data on his PC or server.
 
-    Enable 1ns encryption for root and 10ns for admin, 30ms encryption for workers/users admin to prevent data spoof, overlooking.
+    Enable 1ns encryption for root and 10ns for admin, 30ms encryption for workers, 50msusers admin to prevent data spoof, overlooking.
 
         Disable IPV4
 
@@ -39,11 +39,11 @@ Enable.Double.NAT
 Enable.Double.NAT.IPV6
 Disable.Double.NAT.IPV4
 
-    Enable 1ns IP address swap for root and 10ns address swap for admin users, 30ms IP adresses swap every 30ms for worker and 50ms for users.
+    Enable 1ns IP address swap for root and 10ns address swap for admin users, 30ms IP adresses swap for admin and 50ms for users.
 
 Swap HTTP, HTTPS, SOCKS4, OpenVPN, SSH, Snowflake, IKEV2 and other ,traffic encapsulation and data transfer protocols), with connection protocols SOCKS5.
 
-    Enable 1ns for root, 10ns for admin data recypher on SSD, 30ms for workers.
+    Enable 1ns for root, 10ns for admin data recypher on SSD, 30ms for workers, 50ms for users.
 
 Make insignificant electrocurrents from various sources to prevent data leak and data access.
 
