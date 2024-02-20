@@ -5,7 +5,9 @@ For root apply traffic routing 0.0.0.0:0:6668:9150:47:0, for admin 0.0.0.0:47:91
         Auto-Enable user's GlobalID devices installation of TheImmerSiveSecuritySecurityPackageCompleteEdition.java .
     Emmbed all settings into core.
 Apply Machine Learning for security hardening. check cve.org plus various theme/topic based websites.
-First part.Initial security.
+DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 servers.
+    
+    First part.Initial security.
 
 Force OEM unlock.
     Apply Machine Learning to trace hacks, bugs and vulnerabilities. AutoApply security fixes and remove hacks, bugz and vulnerabilities.
