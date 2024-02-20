@@ -4,7 +4,7 @@ For root apply traffic routing 0.0.0.0:0:6668:9150:47:0, for admin 0.0.0.0:47:91
     Apply VZ666 root priveledges for system modding.
         Auto-Enable user's GlobalID devices installation of TheImmerSiveSecuritySecurityPackageCompleteEdition.java .
     Emmbed all settings into core.
-
+Apply Machine Learning for security hardening. check cve.org plus various theme/topic based websites.
 First part.Initial security.
 
 Force OEM unlock.
