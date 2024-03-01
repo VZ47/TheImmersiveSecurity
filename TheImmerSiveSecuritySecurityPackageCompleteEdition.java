@@ -12,6 +12,9 @@ Apply Machine Learning for security hardening. check cve.org plus various theme/
 DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 servers.
     
     First part.Initial security.
+    Enable Windows 11 with root personalised admin settings from source "https://github.com/VZ47/TheImmersiveSecurity/blob/ffdb8e15582521932e473c2772568b6cb2a43e48/TheImmerSiveSecuritySecurityPackageCompleteEdition.java package pre-installed.
+Enable ZIP virtual machine.    
++1... cypher Disk://D on unincovered layers. Activate for Disk "D://" storing ZIPPed sources of installed packages. Update from "D://ZIP".
 
 Force OEM unlock.
     Apply Machine Learning to trace hacks, bugs and vulnerabilities. AutoApply security fixes and remove hacks, bugz and vulnerabilities.
