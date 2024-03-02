@@ -1,4 +1,5 @@
 TopNotch secirity protocol for Core.
+    Reprogram OS to package based.
     Remove user of the package GlobalID from central servers and transfer to my locales.
 For root apply traffic routing 0.0.0.0:0:0:6668:9150:47, for admin 0.0.0.0:47:9150:47:0, for workers 0.0.0.0:49, for users 0.0.0.0:4444
     Enable.ZeroBitTrafficEncryptions.port(6668)
