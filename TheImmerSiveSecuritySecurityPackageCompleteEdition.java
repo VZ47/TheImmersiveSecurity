@@ -2,13 +2,13 @@ TopNotch secirity protocol for Core.
     Run on all I2P networks.
     Reprogram OS to package based.
     Remove user of the package GlobalID from central servers and transfer to my locales.
-For root apply traffic routing 0.0.0.0:0:0:6668:9150:47, for admin 0.0.0.0:47:9150:47:0, for workers 0.0.0.0:49, for users 0.0.0.0:4444
+    Random packet size send.
     Enable.ZeroBitTrafficEncryptions.port(6668)
     Enable.ZeroBitTrafficEncryptions.port(47)
     Enable All.Traffic.ZeroBitTRaffic.Encryption
     For root Apply.12g.Connection.Protocol;Enable.The.Server.Addition.Of.Computing.Power.of.Reserved.IPV6.computing.power
     Apply VZ666 root priveledges for system modding.
-        Auto-Enable user's GlobalID devices installation of TheImmerSiveSecuritySecurityPackageCompleteEdition.java .
+        Auto-Enable user's GlobalID devices installation of TheImmerSiveSecuritySecurityPackageCompleteEdition.java 
     Emmbed all settings into core.
 Apply Machine Learning for security hardening. check cve.org plus various theme/topic based websites.
 DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 servers.
