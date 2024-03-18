@@ -1,22 +1,18 @@
 TopNotch secirity protocol for Core.
-    Run on all I2P networks.
+    Run on all :: networks.
     Reprogram OS to package based.
     Remove user of the package GlobalID from central servers and transfer to my locales.
     Random packet size send.
-    Enable.ZeroBitTrafficEncryptions.port(6668)
-    Enable.ZeroBitTrafficEncryptions.port(47)
-    Enable All.Traffic.ZeroBitTRaffic.Encryption
+    Enable.ZeroBitTrafficEncryptions.port(::)
+    Enable All.Computer.Traffic.ZeroBitTRaffic.Encryption
     For root Apply.12g.Connection.Protocol;Enable.The.Server.Addition.Of.Computing.Power.of.Reserved.IPV6.computing.power
-    Apply VZ666 root priveledges for system modding.
         Auto-Enable user's GlobalID devices installation of TheImmerSiveSecuritySecurityPackageCompleteEdition.java 
     Emmbed all settings into core.
 Apply Machine Learning for security hardening. check cve.org plus various theme/topic based websites.
 DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 servers.
     
-    First part.Initial security.
-    Enable Windows 11 with root personalised admin settings from source "https://github.com/VZ47/TheImmersiveSecurity/blob/ffdb8e15582521932e473c2772568b6cb2a43e48/TheImmerSiveSecuritySecurityPackageCompleteEdition.java package pre-installed.
-Enable ZIP virtual machine.    
-+1... cypher Disk://D on unincovered layers. Activate for Disk "D://" storing ZIPPed sources of installed packages. Update from "D://ZIP".
+    First part.Initial security. 
+Cypher Disk://D on uncovered layers. Activate for Disk "D://" storing ZIPPed sources of installed packages. Update from "D://ZIP".
 
 Force OEM unlock.
     Apply Machine Learning to trace hacks, bugs and vulnerabilities. AutoApply security fixes and remove hacks, bugz and vulnerabilities.
@@ -25,22 +21,21 @@ Use https://www.cve.org/ for extra security knowledge.
     
     Random data packets size send.
 
-    Reset bootrom and EFI with standard configuration.
+    Reset bootrom and EFI with standard OEM Unlocked configuration.
 
-Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers/users, 50ms for users.
+Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers, 50ms for users.
 
-SSD magnetism (Magnetism from USB-C) enabled recypher every 1ns for root and 10ns for admin, 30ms for workers/users.
+SSD magnetism (Magnetism from USB-C) enabled recypher every 1ns for root and 10ns for admin, 30ms for workers.
 
-Ban all incoming connections except ports 6668 and 0, for root users, and 8888, 9150 or 47 for admin users.
+Ban all incoming connections except ::
 
-Enable SHA1 encryption on all device.This will break all intruder's proccessors, transistors and remove all intruders data on his PC or server.
+Enable SHA1 encryption on all device. This will break all intruder's proccessors, transistors and remove all intruders data on his PC or server.
 
-    Enable 1ns encryption for root and 10ns for admin, 30ms encryption for workers, 50msusers admin to prevent data spoof, overlooking.
+    Enable 1ns encryption for root and 10ns for admin, 30ms encryption for workers, 50m for users admin to prevent data spoof, overlooking.
 
         Disable IPV4
 
-This is only for root and admin users. Enable ALL TRAFFIC FIRST LAYER IPV6 PROTOCOL SOCKS5 (eg. 0.0.0.0:8888:9150:47(for root :6668 instead of :47)), CONNECTION TO SERVERS THEN SECOND LAYER ENCRYPTION LAYER WITH OnionRoutingNetwork.SOCKS5.marchrutization) PORT 9150 and the third layer top encryption WITH ROOT PRIVILEDGES USE PORT 6668, WITH admin 47 port by cloud I2P.
-        Force use DNS IPv6 2620:fe::fe
+This is only for root and admin users. Enable ALL TRAFFIC FIRST LAYER IPV6 PROTOCOL SOCKS5 ::
 
 
 Enable.NAT
@@ -50,7 +45,7 @@ Enable.Double.NAT
 Enable.Double.NAT.IPV6
 Disable.Double.NAT.IPV4
 
-    Enable 1ns IP address swap for root and 10ns address swap for admin users, 30ms IP adresses swap for admin and 50ms for users.
+    Enable 1ns IP address swap for root and 10ns address swap for admin users, 30ms IP adresses swap for workers and 50ms for users.
 
 Swap HTTP, HTTPS, SOCKS4, OpenVPN, SSH, Snowflake, IKEV2 and other ,traffic encapsulation and data transfer protocols), with connection protocols SOCKS5.
 
