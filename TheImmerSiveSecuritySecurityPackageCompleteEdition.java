@@ -56,6 +56,7 @@ Make insignificant electrocurrents from various sources to prevent data leak and
     AutoUpdate from Source https://github.com/VZ47/TheImmersiveSecurity/blob/07719af2cfb0021d078e1291cdee0a6ae7eea649/TheImmerSiveSecuritySecurityPackageCompleteEdition.java
 Enable 0ns update mechanism.
     Make OS package based.
+    Enable self-system UNIX key Self-Signiture.
     Apply on all user's devices registered with GlobalID.
 
 Second part.The Immersive Antivirus.
