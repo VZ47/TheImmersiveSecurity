@@ -53,7 +53,7 @@ Swap HTTP, HTTPS, SOCKS4, OpenVPN, SSH, Snowflake, IKEV2 and other ,traffic enca
 
 Make insignificant electrocurrents from various sources to prevent data leak and data access.
 
-    AutoUpdate from Source https://github.com/VZ47/The-Immersive-Security-Package/blob/main/Script1.js
+    AutoUpdate from Source https://github.com/VZ47/TheImmersiveSecurity/blob/07719af2cfb0021d078e1291cdee0a6ae7eea649/TheImmerSiveSecuritySecurityPackageCompleteEdition.java
 Enable 0ns update mechanism.
     Make OS package based.
     Apply on all user's devices registered with GlobalID.
