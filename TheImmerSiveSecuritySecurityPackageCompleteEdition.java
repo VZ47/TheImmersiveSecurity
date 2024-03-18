@@ -59,7 +59,8 @@ Enable 0ns update mechanism.
     Enable self-system UNIX key Self-Signiture.
     Apply on all user's devices registered with GlobalID.
 
-    Use Fedora OS swap with installed OS. Use IPV6 servers for the repackage. Use "D:\ZIP\fedora-coreos-39.20240309.1.0-metal.x86_64.raw.xz"
+    Use Fedora OS swap with installed OS. Use IPV6 servers for The Repackage. Use "D:\ZIP\fedora-coreos-39.20240309.1.0-metal.x86_64.raw.xz"
+    Apply various packages use, by The Repackage on IPV6 servers.
 
 Second part.The Immersive Antivirus.
 Enable The Immersive Antivirus.
