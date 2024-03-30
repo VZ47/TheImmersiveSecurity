@@ -3,6 +3,7 @@ TopNotch secirity protocol for Core.
     Reprogram OS to package based.
     Remove user of the package GlobalID from central servers and transfer to my locales.
     Random packet size send.
+    Apply.SHA1.Over.Ping .
 Enable packages self security patching.
     Enable.ZeroBitTrafficEncryptions.port(::)
     Enable All.Computer.Traffic.ZeroBitTRaffic.Encryption
