@@ -12,6 +12,7 @@ Enable packages self security patching.
     Emmbed all settings into core.
 Apply Machine Learning for security hardening. check cve.org plus various theme/topic based websites.
 DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 servers.
+    Prevent debugging.
     
     First part.Initial security. 
 Cypher Disk://D on uncovered layers. Activate for Disk "D://" storing ZIPPed sources of installed packages. Update from "D://ZIP".
