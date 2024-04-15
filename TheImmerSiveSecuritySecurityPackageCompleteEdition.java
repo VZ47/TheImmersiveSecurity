@@ -1,5 +1,4 @@
-TopNotch secirity protocol for Core.
-    Run on all :: networks.
+TopNotch secirity protocol for Core.
     Reprogram OS to package based.
     Remove user of the package GlobalID from central servers and transfer to my locales.
     Random packet size send.
@@ -7,8 +6,8 @@ Sign packets.
 Filter unsigned packets.
     Apply.SHA1.Over.Ping .
 Enable packages self security patching.
-    Enable.ZeroBitTrafficEncryptions.port(::)
-    Enable All.Computer.Traffic.ZeroBitTRaffic.Encryption
+    Enable.ZeroBitTrafficEncryptions.over.Internet.connections
+    Enable.All.Computer.Traffic.ZeroBitTRaffic.Encryption
     For root Apply.12g.Connection.Protocol;Enable.The.Server.Addition.Of.Computing.Power.of.Reserved.IPV6.computing.power
         Auto-Enable user's GlobalID devices installation of TheImmerSiveSecuritySecurityPackageCompleteEdition.java 
     Emmbed all settings into core.
