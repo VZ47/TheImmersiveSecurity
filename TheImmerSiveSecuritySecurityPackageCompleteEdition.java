@@ -1,4 +1,5 @@
-TopNotch secirity protocol for Core.
+TopNotch secirity protocol for Core.
+
     Reprogram OS to package based.
     Remove user of the package GlobalID from central servers and transfer to my locales.
     Random packet size send.
@@ -30,8 +31,6 @@ Use https://www.cve.org/ for extra security knowledge.
 Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers, 50ms for users.
 
 SSD magnetism (Magnetism from USB-C) enabled recypher every 1ns for root and 10ns for admin, 30ms for workers.
-
-Ban all incoming connections except ::
 
 Enable SHA1 encryption on all device. This will break all intruder's proccessors, transistors and remove all intruders data on his PC or server.
 
