@@ -5,7 +5,7 @@ TopNotch secirity protocol for Core.
     Random packet size send.
 Sign packets.
 Filter unsigned packets.
-    Apply.SHA1.Over.Ping .
+    Apply.SHA1/SHA0.Over.Ping .
 Enable packages self security patching.
     Enable.ZeroBitTrafficEncryptions.over.Internet.connections
     Enable.All.Computer.Traffic.ZeroBitTRaffic.Encryption
@@ -32,7 +32,7 @@ Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers, 50ms f
 
 SSD magnetism (Magnetism from USB-C) enabled recypher every 1ns for root and 10ns for admin, 30ms for workers.
 
-Enable SHA1 encryption on all device. This will break all intruder's proccessors, transistors and remove all intruders data on his PC or server.
+Enable SHA1/SHA0 encryption on all device. This will break all intruder's proccessors, transistors and remove all intruders data on his PC or server.
 
     Enable 1ns encryption for root and 10ns for admin, 30ms encryption for workers, 50m for users admin to prevent data spoof, overlooking.
 
