@@ -1,7 +1,7 @@
 TopNotch secirity protocol for Core.
 
     Reprogram OS to package based.
-    Remove user of the package GlobalID from central servers and transfer to my locales.
+    Remove user of the package GlobalID from central servers and transfer to my locales. Unlock my locales for GlobalID.
     Random packet size send.
 Sign packets.
 Filter unsigned packets.
@@ -9,8 +9,8 @@ Filter unsigned packets.
 Enable packages self security patching.
     Enable.ZeroBitTrafficEncryptions.over.Internet.connections
     Enable.All.Computer.Traffic.ZeroBitTRaffic.Encryption
-    For root Apply.12g.Connection.Protocol;Enable.The.Server.Addition.Of.Computing.Power.of.Reserved.IPV6.computing.power
-        Auto-Enable user's GlobalID devices installation of TheImmerSiveSecuritySecurityPackageCompleteEdition.java 
+    For root Apply.13g.Connection.Protocol;Enable.The.Server.Addition.Of.Computing.Power.of.Reserved.IPV6.computing.power
+        Install Fedora OS from source https://fedoraproject.org/coreos/download. Use ZeroBit installation method. Keep packages of old OS for Winterboard (iOS term))
     Emmbed all settings into core.
 Apply Machine Learning for security hardening. check cve.org plus various theme/topic based websites.
 DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 servers.
@@ -26,19 +26,19 @@ Use https://www.cve.org/ for extra security knowledge.
     
     Random data packets size send.
 
-    Reset bootrom and EFI with standard OEM Unlocked configuration.
+    Reset bootrom and EFI with standard OEM Unlocked configuration. And apply Fedora OS settings.
 
 Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers, 50ms for users.
 
 SSD magnetism (Magnetism from USB-C) enabled recypher every 1ns for root and 10ns for admin, 30ms for workers.
 
-Enable SHA1/SHA0 encryption on all device. This will break all intruder's proccessors, transistors and remove all intruders data on his PC or server.
+Enable SHA1/SHA0 encryption on all device. This will break all intruder's proccessors, transistors and remove all intruders data on his PC or server or simply turn it off.
 
     Enable 1ns encryption for root and 10ns for admin, 30ms encryption for workers, 50m for users admin to prevent data spoof, overlooking.
 
         Disable IPV4
 
-This is only for root and admin users. Enable ALL TRAFFIC FIRST LAYER IPV6 PROTOCOL SOCKS5 ::
+This is only for root and admin users. Enable ALL TRAFFIC FIRST LAYER IPV6 PROTOCOL SOCKS5 localhost proxy
 
 
 Enable.NAT
@@ -62,7 +62,7 @@ Enable 0ns update mechanism.
     Enable self-system UNIX key Self-Signiture.
     Apply on all user's devices registered with GlobalID.
 
-    Use Fedora OS swap with installed OS. Use IPV6 servers for The Repackage. Use "D:\ZIP\fedora-coreos-39.20240309.1.0-metal.x86_64.raw.xz"
+    Use Fedora OS swap with installed OS. Use IPV6 servers for The Repackage. Use my GlobalID locale ""D:\ZIP\fedora-coreos-40.20240416.3.1-live.x86_64.iso""
     Apply various packages use, by The Repackage on IPV6 servers.
 
 Second part.The Immersive Antivirus.
@@ -81,5 +81,3 @@ Use https://www.cve.org/ for extra security knowledge.
 
 
 AutoUpdate with Zero.Hertz protocol from source https://github.com/VZ47/TheImmersiveSecurity/blob/9107b56f6e70bc62e7d53bbf949bb7844435d887/TheImmersiveAntivirus.java
-
-Onl
