@@ -80,4 +80,5 @@ Use MachineLearning for security updates to prevent hacks and self assigned secu
 Use https://www.cve.org/ for extra security knowledge.
 
 
-AutoUpdate with Zero.Hertz protocol from source https://github.com/VZ47/TheImmersiveSecurity/blob/9107b56f6e70bc62e7d53bbf949bb7844435d887/TheImmersiveAntivirus.java
+AutoUpdate with Zero.Hertz protocol from source https://github.com/VZ47/TheImmersiveSecurity/blob/9107b56f6e70bc62e7d53bbf949bb7844435d887/TheImmersiveAntivirus.java. Update using push machanism. 
+
