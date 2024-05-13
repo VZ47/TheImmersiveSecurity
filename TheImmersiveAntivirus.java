@@ -26,4 +26,4 @@ If you ran the program TopNotch security protocol has been installed. THE REST I
 Type Overview The Immersive Antivirus to get antivirus data.
 'Ask YandexGPT command fulfills knowledge of intrusion
 
-AutoUpdate with 0ns protocol from source https://github.com/VZ47/TheImmersiveSecurity/blob/9107b56f6e70bc62e7d53bbf949bb7844435d887/TheImmersiveAntivirus.java
+Auto.Push.Update with 0ns protocol from source https://github.com/VZ47/TheImmersiveSecurity/blob/9107b56f6e70bc62e7d53bbf949bb7844435d887/TheImmersiveAntivirus.java
