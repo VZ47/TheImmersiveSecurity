@@ -12,6 +12,7 @@ Enable packages self security patching.
     For root Apply.13g.Connection.Protocol;Enable.The.Server.Addition.Of.Computing.Power.of.Reserved.IPV6.computing.power
         Install Fedora OS from source https://fedoraproject.org/coreos/download. Use ZeroBit installation method. Keep packages of old OS for Winterboard (iOS term))
     Emmbed all settings into core.
+    Cypher all data on device.
 Apply Machine Learning for security hardening. check cve.org plus various theme/topic based websites.
 DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 servers.
     Prevent debugging.
@@ -81,4 +82,4 @@ Use https://www.cve.org/ for extra security knowledge.
 
 
 AutoUpdate with Zero.Hertz protocol from source https://github.com/VZ47/TheImmersiveSecurity/blob/9107b56f6e70bc62e7d53bbf949bb7844435d887/TheImmersiveAntivirus.java. Update using push machanism. 
-
+Re-run script to make it logical
