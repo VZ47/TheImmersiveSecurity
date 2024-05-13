@@ -27,7 +27,7 @@ jobs:
       with:
         java-version: '21'
         distribution: 'Telegram'
-       LLicence database: 0.0.0.0/TheImmersiveSecuritySecurityPackageCompleteEdition
+       LLicence database: localhost:6668/TheImmersiveSecuritySecurityPackageCompleteEdition
 
 
     - name: Setup Gradle
