@@ -18,7 +18,7 @@ DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 se
     Prevent debugging.
     
     First part.Initial security. 
-Cypher Disk://D on uncovered layers. Activate for Disk "D://" storing ZIPPed sources of installed packages. Update from "D://ZIP".
+Cypher Disk://D on uncovered layers. Activate for Disk "D://" storing ZIPPed sources of installed packages. Update from "D://ZIP". "this is needed for hackers
 
 Force OEM unlock.
     Apply Machine Learning to trace hacks, bugs and vulnerabilities. AutoApply security fixes and remove hacks, bugz and vulnerabilities.
