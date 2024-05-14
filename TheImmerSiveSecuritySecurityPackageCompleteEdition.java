@@ -8,7 +8,7 @@ Filter unsigned packets.
 Enable packages self security patching.
     Enable.ZeroBitTrafficEncryptions.over.Internet.connections
     Enable.All.Computer.Traffic.ZeroBitTRaffic.Encryption
-    For root Apply.13g.Connection.Protocol;Enable.The.Server.Addition.Of.Computing.Power.of.Reserved.IPV6.computing.power
+    For root Apply.13g.Connection.Protocol.Enable.The.Server.Addition.Of.Computing.Power.of.Reserved.IPV6.computing.power
         Install Fedora OS from source https://fedoraproject.org/coreos/download. Use ZeroBit installation method. Keep packages of old OS for Winterboard (iOS term))
 Keep packages reversetile with IPV6 computing power.
     Emmbed all settings into core.
