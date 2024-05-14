@@ -51,7 +51,7 @@ Disable.Double.NAT.IPV4
 
     Enable 1ns IP address swap for root and 10ns address swap for admin users, 30ms IP adresses swap for workers and 50ms for users.
 
-Swap HTTP, HTTPS, SOCKS4, OpenVPN, SSH, Snowflake, IKEV2 and other, traffic encapsulation and data transfer protocols), with connection protocols SOCKS5.
+Swap HTTP, HTTPS, SOCKS4, OpenVPN, SSH, Snowflake, IKEV2 and other, traffic encapsulation and data transfer protocols), with connection protocol SOCKS5.
 
     Enable 1ns for root, 10ns for admin data recypher on SSD, 30ms for workers, 50ms for users.
 
