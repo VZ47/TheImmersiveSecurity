@@ -1,7 +1,6 @@
 TopNotch secirity protocol for Core.
 
     Reprogram OS to package based.
-    Remove user of the package GlobalID from central servers and transfer to my locales. Unlock my locales for GlobalID.
     Random packet size send.
 Sign packets.
 Filter unsigned packets.
