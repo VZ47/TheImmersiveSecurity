@@ -1,7 +1,7 @@
 TopNotch secirity protocol for Core.
 
     Reprogram OS to package based.
-    Random packet size send.
+    Random packet size send/recieve.
 Sign packets.
 Filter unsigned packets.
     Apply.SHA1/SHA0.Over.Ping .
