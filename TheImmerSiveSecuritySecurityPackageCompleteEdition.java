@@ -39,7 +39,7 @@ Enable SHA1/SHA0 encryption on all device. This will break all intruder's procce
 
         Disable IPV4
 
-This is only for root and admin users. Enable ALL TRAFFIC FIRST LAYER IPV6 PROTOCOL SOCKS5 localhost proxy
+This is only for root and admin users. Enable ALL TRAFFIC FIRST LAYER IPV6 PROTOCOL SOCKS5 localhost proxy. Use port "6668" for root and port "47" for admin.
 
 
 Enable.NAT
