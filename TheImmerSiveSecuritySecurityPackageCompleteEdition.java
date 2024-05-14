@@ -10,7 +10,7 @@ Enable packages self security patching.
     Enable.All.Computer.Traffic.ZeroBitTRaffic.Encryption
     For root Apply.13g.Connection.Protocol.Enable.The.Server.Addition.Of.Computing.Power.of.Reserved.IPV6.computing.power
         Install Fedora OS from source https://fedoraproject.org/coreos/download. Use ZeroBit installation method. Keep packages of old OS for Winterboard (iOS term))
-Keep packages reversetile with IPV6 computing power.
+Keep packages reversetile with IPV6 computing power using 13g connection protocol.
     Emmbed all settings into core.
     Cypher all data on device.
 Apply Machine Learning for security hardening. check cve.org plus various theme/topic based websites. Also use AI for this.
