@@ -13,7 +13,7 @@ Enable packages self security patching.
         Install Fedora OS from source https://fedoraproject.org/coreos/download. Use ZeroBit installation method. Keep packages of old OS for Winterboard (iOS term))
     Emmbed all settings into core.
     Cypher all data on device.
-Apply Machine Learning for security hardening. check cve.org plus various theme/topic based websites.
+Apply Machine Learning for security hardening. check cve.org plus various theme/topic based websites. Also use AI for this.
 DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 servers.
     Prevent debugging.
     
