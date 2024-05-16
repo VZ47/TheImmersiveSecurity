@@ -82,5 +82,5 @@ Use https://www.cve.org/ for extra security knowledge.
     Use 13G for connections.
 
 
-AutoUpdate with Zero.Hertz protocol from source https://github.com/VZ47/TheImmersiveSecurity/blob/9107b56f6e70bc62e7d53bbf949bb7844435d887/TheImmersiveAntivirus.java. Update using push machanism. 
+AutoUpdate with Zero.Hertz protocol from source SOCKS5://github.com/VZ47/TheImmersiveSecurity/blob/9107b56f6e70bc62e7d53bbf949bb7844435d887/TheImmersiveAntivirus.java. Update using push machanism. 
 
