@@ -1,5 +1,5 @@
 TopNotch secirity protocol for Core.
-
+Install on all user's GlobalID devices.
     Reprogram OS to package based.
     Random packet size send/recieve.
 Sign packets.
