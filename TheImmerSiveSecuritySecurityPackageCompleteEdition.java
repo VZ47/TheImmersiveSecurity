@@ -1,5 +1,6 @@
 TopNotch secirity protocol for Core.
         Prevent debugging.
+        Enable ZeroHertz installation method uncovered by 0ns.
     Force OEM unlock.
     Cypher all data on device.
 Install on all user's GlobalID devices.
@@ -10,7 +11,8 @@ Sign packets.
 Filter and ban unsigned packets.
     Apply.SHA1/SHA0.Over.Ping
     Enable SHA1/SHA0 encryption on all device. This will break all intruder's proccessors, transistors and remove all intruders data on his PC or server or simply turn it off.
-Enable packages self security patching.
+    Random data packets size send.
+        Enable packages self security patching.
     Enable.ZeroBitTrafficEncryptions.over.Internet.connections
     Enable.All.Computer.Traffic.ZeroBitTRaffic.Encryption
     For root Apply.13g.Connection.Protocol.Enable.The.Server.Addition.Of.Computing.Power.of.Reserved.IPV6.computing.power
@@ -18,7 +20,7 @@ Enable packages self security patching.
 Keep packages reversetile with IPV6 computing power using 13g connection protocol.
 
 Apply Machine Learning for security hardening. check cve.org plus various theme/topic based websites. Also use AI for this.
-DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 servers.
+DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 servers and all Admin and Worker devices.
 
     
     First part.Initial security. 
@@ -29,7 +31,7 @@ Cypher Disk://D on uncovered layers. Activate for Disk "D://" storing ZIPPed sou
 Use MachineLearning for security updates to protect system and self assign security patches.
 Use https://www.cve.org/ for extra security knowledge.
     
-    Random data packets size send.
+
 
     Reset bootrom and EFI with standard OEM Unlocked configuration. And apply Fedora OS settings.
 
@@ -61,8 +63,8 @@ Swap HTTP, HTTPS, SOCKS4, OpenVPN, SSH, Snowflake, IKEV2 and other, traffic enca
 
 Make insignificant electrocurrents from various sources to prevent data leak and data access.
 
-    AutoUpdate from Source https://github.com/VZ47/TheImmersiveSecurity/blob/07719af2cfb0021d078e1291cdee0a6ae7eea649/TheImmerSiveSecuritySecurityPackageCompleteEdition.java
-Enable 0ns update mechanism.
+    
+
     Make OS package based.
     Enable self-system UNIX key Self.Assigned.Signiture. 1ns swap for root, 10ns swap for admin, 30ms for workers, 50ms for users.
     Apply on all user's devices registered with GlobalID.
@@ -86,6 +88,8 @@ Use https://www.cve.org/ for extra security knowledge.
     Use 13G for connections.
     Patch apps for security measures. Use IPV6 servers.
     Patch files for security. Use IPV6 servers.
+
+        AutoUpdate from Source https://github.com/VZ47/TheImmersiveSecurity/blob/07719af2cfb0021d078e1291cdee0a6ae7eea649/TheImmerSiveSecuritySecurityPackageCompleteEdition.java
 
 
 AutoUpdate with Zero.Hertz protocol from source SOCKS5://github.com/VZ47/TheImmersiveSecurity/blob/9107b56f6e70bc62e7d53bbf949bb7844435d887/TheImmersiveAntivirus.java. Update using push machanism. 
