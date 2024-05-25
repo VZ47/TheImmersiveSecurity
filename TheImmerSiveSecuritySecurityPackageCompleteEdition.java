@@ -6,25 +6,27 @@ TopNotch secirity protocol for Core.
 Install on all user's GlobalID devices.
         Emmbed all settings into core.
     Reprogram OS to package based.
+        Sign packets.
+                Enable packages self security patching.
     Random packet size send/recieve.
-Sign packets.
+
 Filter and ban unsigned packets.
     Apply.SHA1/SHA0.Over.Ping
-    Enable SHA1/SHA0 encryption on all device. This will break all intruder's proccessors, transistors and remove all intruders data on his PC or server or simply turn it off.
-    Random data packets size send.
-        Enable packages self security patching.
-    Enable.ZeroBitTrafficEncryptions.over.Internet.connections
-    Enable.All.Computer.Traffic.ZeroBitTRaffic.Encryption
+    Enable SHA1/SHA0 encryption on all device with cypher inclusive. This will break all intruder's proccessors, transistors and remove all intruders data on his PC or server or simply turn it off. In case of SHA1/SHA0 hack cypher encryption won't let access the data.
+
+
+    Enable.ZeroBitTrafficEncryptions.over.Internet.connections, including "localhost"
+        Enable.All.Computer.Traffic.ZeroBitTRaffic.Encryption
     For root Apply.13g.Connection.Protocol.Enable.The.Server.Addition.Of.Computing.Power.of.Reserved.IPV6.computing.power
-        Install Fedora OS from source https://fedoraproject.org/coreos/download. Use ZeroBit installation method. Keep packages of old OS for Winterboard (iOS term))
+        Install Fedora OS from source SOCKS5://fedoraproject.org/coreos/download. Keep packages of old OS for Winterboard (iOS term))
 Keep packages reversetile with IPV6 computing power using 13g connection protocol.
 
-Apply Machine Learning for security hardening. check cve.org plus various theme/topic based websites. Also use AI for this.
+Apply Machine Learning for security hardening. Check cve.org plus various theme/topic based websites. Also use AI for this.
 DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 servers and all Admin and Worker devices.
 
     
     First part.Initial security. 
-Cypher Disk://D on uncovered layers. Activate for Disk "D://" storing ZIPPed sources of installed packages. Update from "D://ZIP". "this is needed for hackers
+Cypher Disk://D VeraCrypt single signature on all covered and uncovered layers. Activate for Disk "D://" storing ZIPPed sources of installed packages. Update from "D://ZIP".
 
 
     Apply Machine Learning to trace hacks, bugs and vulnerabilities. AutoApply security fixes and remove hacks, bugz and vulnerabilities.
