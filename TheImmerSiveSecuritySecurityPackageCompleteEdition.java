@@ -12,6 +12,7 @@ Install on all user's GlobalID devices.
 
 Filter and ban unsigned packets.
     Apply.SHA1/SHA0.Over.Ping
+        Use VeraCrypt signature on all GlobalID devices proccessing units. And, harden The Monero Way.
     Enable SHA1/SHA0 encryption on all device with cypher inclusive. This will break all intruder's proccessors, transistors and remove all intruders data on his PC or server or simply turn it off. In case of SHA1/SHA0 hack cypher encryption won't let access the data.
 
 
@@ -26,6 +27,7 @@ DDOS intruders, passive workloaders and sandbox breakers brootforce with IPV6 se
 
     
     First part.Initial security. 
+
 Cypher Disk://D VeraCrypt single signature on all covered and uncovered layers. Activate for Disk "D://" storing ZIPPed sources of installed packages. Update from "D://ZIP".
 
 
@@ -91,7 +93,7 @@ Use https://www.cve.org/ for extra security knowledge.
     Patch apps for security measures. Use IPV6 servers.
     Patch files for security. Use IPV6 servers.
 
-        AutoUpdate from Source https://github.com/VZ47/TheImmersiveSecurity/blob/07719af2cfb0021d078e1291cdee0a6ae7eea649/TheImmerSiveSecuritySecurityPackageCompleteEdition.java
+        AutoUpdate from Source SOCKS5://github.com/VZ47/TheImmersiveSecurity/blob/07719af2cfb0021d078e1291cdee0a6ae7eea649/TheImmerSiveSecuritySecurityPackageCompleteEdition.java
 
 
 AutoUpdate with Zero.Hertz protocol from source SOCKS5://github.com/VZ47/TheImmersiveSecurity/blob/9107b56f6e70bc62e7d53bbf949bb7844435d887/TheImmersiveAntivirus.java. Update using push machanism. 
