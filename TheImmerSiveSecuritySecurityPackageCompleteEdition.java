@@ -1,6 +1,6 @@
 TopNotch secirity protocol for Core.
         Prevent debugging.
-        Enable ZeroHertz installation method uncovered by 0ns.
+        Enable ZeroHertz installation method incovered by 0ns.
     Force OEM unlock.
     Cypher all data on device.
 Install on all user's GlobalID devices.
