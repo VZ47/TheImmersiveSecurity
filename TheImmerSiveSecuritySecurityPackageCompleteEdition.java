@@ -100,4 +100,6 @@ Use https://www.cve.org/ for extra security knowledge.
     Patch files for security. Use IPV6 servers.
     Apply on all user's devices registered with GlobalID.
     Apply various packages use, by The Repackage on IPV6 servers.
+
+Install I2P on parralel storage, Firefox preconfigured from SOCKS5://localhost:TheAgency/VZ666 packages/
         Push.AutoUpdate from Source SOCKS5://localhost:TheAgency/VZ666 packages/
