@@ -10,7 +10,7 @@ TopNotch secirity protocol for Core.
 
         Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers, 50ms for users. 
         Install Fedora OS from source SOCKS5://localhost:6668/Patched ZIPs/fedora-coreos-40.20240416.3.1-live.x86_64.zip. Keep packages of old OS for Winterboard (iOS term))
-Instal Whonix bootrom from localhost:6668/Patched ZIPs/Whonix-Xfce-17.1.3.1.zip
+
                   Reset bootrom and EFI with standard OEM Unlocked configuration. 
 
     Force OEM unlock.
