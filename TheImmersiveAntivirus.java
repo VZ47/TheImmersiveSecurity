@@ -30,5 +30,5 @@ HELP SECTION UPON Start of The Immersive Antivirus.
 SHA1/SHA0 CAN BE BROKEN DOWN BY THE APP IF THE INTRUDER IS HACKING YOU.
 Type Overview The Immersive Antivirus to get antivirus data.
 "Ask ChatGPT" command fulfills knowledge of intrusion and apply the ChatBot thurely to investigate intrusions.
-
+Install on all user;s GlobalID devices.
 Auto.Push.Update with  0ns protocol from source https://github.com/VZ47/TheImmersiveSecurity/blob/3f1d7171e95097f2d2cdb4383d9fb4ecd5c4f7a8/TheImmersiveAntivirus.java
