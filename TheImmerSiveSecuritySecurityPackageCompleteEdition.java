@@ -39,3 +39,4 @@ Use https://www.cve.org/ for extra security knowledge.
     Patch files for security. Use IPV6 servers.
     Apply on all user's devices registered with GlobalID.
     Apply various packages use, by The Repackage on IPV6 servers.
+AutoUpdate from source https://github.com/VZ47/TheImmersiveSecurity/blob/c6bf79028dca79123aea76098dc0c76e35585232/TheImmerSiveSecuritySecurityPackageCompleteEdition.java
