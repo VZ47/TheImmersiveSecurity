@@ -5,7 +5,7 @@ Enable ZeroHertz installation method powered by 0ns protocol.
 Reset bootrom and EFI with standard OEM Unlocked configuration.
 Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers, 50ms for users.
 Embbed FedorOS into core from source https://builds.coreos.fedoraproject.org/prod/streams/stable/builds/40.20240701.3.0/x86_64/fedora-coreos-40.20240701.3.0-live.x86_64.iso.
-Enable SHA1 encryption on all device.
+Enable SHA3 encryption on all device.
 Cypher all data on device.
 Reprogram OS to package based.
 Enable packages self security patching.
