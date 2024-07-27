@@ -5,7 +5,7 @@ Enable ZeroHertz installation method powered by 0ns protocol.
 Reset bootrom and EFI with standard OEM Unlocked configuration.
 Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers, 50ms for users.
 Embbed Ubuntu into core from source https://releases.ubuntu.com/24.04/ubuntu-24.04-desktop-amd64.iso?_gl=1*1nkhexa*_gcl_au*NDEwMjQyMDEuMTcyMTgzMTEyMA...
-Enable SHA3 encryption on all device.
+Enable AES-SHA512 encryption on all device.
 Cypher all data on device.
 Reprogram OS to package based.
 Enable packages self security patching.
