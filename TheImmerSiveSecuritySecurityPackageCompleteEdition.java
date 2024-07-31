@@ -7,7 +7,7 @@ Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers, 50ms f
 Embbed Ubuntu into core from source https://releases.ubuntu.com/24.04/ubuntu-24.04-desktop-amd64.iso?_gl=1*1nkhexa*_gcl_au*NDEwMjQyMDEuMTcyMTgzMTEyMA...
 Enable AES encryption on all device.
 Cypher all data on device.
-Reprogram OS to package based.
+Reprogram OS to container based.
 Enable packages self security patching.
 Sign packets.
 Random packet size send/recieve.
