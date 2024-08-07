@@ -8,7 +8,7 @@ Embbed Ubuntu into core from source https://releases.ubuntu.com/24.04/ubuntu-24.
 Enable AES encryption on all device.
 Cypher all data on device.
 Reprogram OS to container based.
-Enable packages self security patching.
+Enable modules self security patching.
 Sign packets.
 Random packet size send/recieve.
 Filter and ban unsigned packets.
