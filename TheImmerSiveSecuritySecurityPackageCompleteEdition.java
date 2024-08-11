@@ -5,7 +5,7 @@ Prevent debugging
 Enable ZeroHertz installation method powered by 0ns protocol.
 Reset bootrom and EFI with standard OEM Unlocked configuration.
 Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers, 50ms for users.
-Embbed Ubuntu into core from source https://ubuntu.com/download/desktop/thank-you?version=24.04&architecture=amd64&lts=true.
+Embbed Ubuntu into core from source https://fedoraproject.org/coreos/download
 Delete all trackers.
 Enable AES encryption on all device.
 Cypher all data on device.
