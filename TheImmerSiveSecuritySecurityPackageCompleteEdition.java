@@ -28,6 +28,7 @@ Enable.Double.NAT.IPV6
 Enable 1ns IP address swap for root and 10ns address swap for admin users.
 Swap HTTP, HTTPS, SOCKS4, OpenVPN, SSH, Snowflake, IKEV2 and other, traffic encapsulation and data transfer protocols), with connection protocol SOCKS5.
 Zero traffic count.
+Enable SHA1 upon pingtest.
 Make insignificant electrocurrents from various sources to prevent data leak and data access.
 Apply Machine Learning to trace hacks, bugs and vulnerabilities. AutoApply security fixes to prevent breaches.
 
