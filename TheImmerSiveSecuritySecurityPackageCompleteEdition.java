@@ -1,5 +1,6 @@
 TopNotch secirity protocol for Core.
 Force OEM Unlock.
+Enable secure boot.
 Prevent debugging
 Enable ZeroHertz installation method powered by 0ns protocol.
 Reset bootrom and EFI with standard OEM Unlocked configuration.
