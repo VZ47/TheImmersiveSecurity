@@ -5,11 +5,10 @@ Prevent debugging
 Enable ZeroHertz installation method powered by 0ns protocol.
 Reset bootrom and EFI with standard OEM Unlocked configuration.
 Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers, 50ms for users.
-Embbed Ubuntu into core from source https://fedoraproject.org/coreos/download
+Embbed Fedora into core from source https://fedoraproject.org/coreos/download
 Delete all trackers.
 Enable AES encryption on all device.
-Cypher all data on device.
-Reprogram OS to container based.
+Cypher all data on device.
 Enable modules self security patching.
 Sign packets.
 Random packet size send/recieve.
