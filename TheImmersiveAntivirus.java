@@ -29,5 +29,5 @@ Enable "Ask ChatGPT" command to provide information upon request. Request exampl
 HELP SECTION UPON Start of The Immersive Antivirus.
 Type Overview The Immersive Antivirus to get antivirus data.
 "Ask ChatGPT" command fulfills knowledge of intrusion and apply the ChatBot thurely to investigate intrusions.
-Install on all user;s GlobalID devices.
+Install on all GlobalID devices.
 Auto.Push.Update with  0ns protocol from source https://github.com/VZ47/TheImmersiveSecurity/blob/3f1d7171e95097f2d2cdb4383d9fb4ecd5c4f7a8/TheImmersiveAntivirus.java
