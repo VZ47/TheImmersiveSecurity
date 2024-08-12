@@ -8,7 +8,7 @@ Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers, 50ms f
 Embbed Fedora into core from source https://builds.coreos.fedoraproject.org/prod/streams/stable/builds/40.20240709.3.1/x86_64/fedora-coreos-40.20240709.3.1-live.x86_64.iso for x86_64 architecture.
 Embbed Fedora into core from source https://builds.coreos.fedoraproject.org/prod/streams/stable/builds/40.20240709.3.1/aarch64/fedora-coreos-40.20240709.3.1-live.aarch64.iso for ARM proccessors.
 Embbed Fedora into core of appliances from source https://download.fedoraproject.org/pub/alt/iot/40/IoT/x86_64/iso/Fedora-IoT-ostree-40-20240422.3.x86_64.iso for x86_64 systems, and from source https://download.fedoraproject.org/pub/alt/iot/40/IoT/aarch64/iso/Fedora-IoT-ostree-40-20240422.3.aarch64.iso for ARM proccessors.
-Delete all trackers.
+Delete all trackers and identifiers.
 Enable AES encryption on all device.
 Cipher all data on device.
 Enable modules self security patching.
