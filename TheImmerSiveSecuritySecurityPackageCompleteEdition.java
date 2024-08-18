@@ -47,3 +47,4 @@ Use https://www.cve.org/ for extra security knowledge.
     Install on all user's GlobalID devices.
 AutoUpdate from source https://github.com/VZ47/TheImmersiveSecurity/blob/c6bf79028dca79123aea76098dc0c76e35585232/TheImmerSiveSecuritySecurityPackageCompleteEdition.java
 Use ZeroHertz and 0ns update method.
+Use assigmated self update mechanism.
