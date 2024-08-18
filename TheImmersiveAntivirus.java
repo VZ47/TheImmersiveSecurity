@@ -25,6 +25,7 @@ Enable.13g.powersupply.mode.computer.run.in.case.shutdown. If abrupted use 0ns p
 Stealth access mode.Button "Stealth mode" Use IPV6 server for access. Allowed only to Admin and Root users.
 Enable "Ask ChatGPT" command to provide information upon request. Request example: "Ask ChatGPT on TrackingID legal authority measures." Anything with regard of The Immersive Antivirus running and help may be asked.
 
+Auto-delete them shities.
 
 HELP SECTION UPON Start of The Immersive Antivirus.
 Type Overview The Immersive Antivirus to get antivirus data.
