@@ -26,6 +26,7 @@ Stealth access mode.Button "Stealth mode" Use IPV6 server for access. Allowed on
 Enable "Ask ChatGPT" command to provide information upon request. Request example: "Ask ChatGPT on TrackingID legal authority measures." Anything with regard of The Immersive Antivirus running and help may be asked.
 
 Auto-delete them shities.
+Install appropriates from blockchain IPV6 $ervers.
 
 HELP SECTION UPON Start of The Immersive Antivirus.
 Type Overview The Immersive Antivirus to get antivirus data.
