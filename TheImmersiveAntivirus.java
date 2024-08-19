@@ -15,6 +15,23 @@ Enable.ChatGPT.Trace.The.Hidden.Hacks.
 
 The Immersive Antivirus Graphical Design (Command Line Design)
 
+  
+Enable MachineLearning optimisation, security and system improvements. This should run automatic updates to prevent hacks, eleminate bugs and zero-day vulnerabilities.
+MachineLearning scripts for The Immersive Antivirus: AI generated GlobalID group #Tag, way of intrusion, collectibles, stack and note IP address branches and add to GlobalID sets (Include TraceRoute.set.IPs, group IPs with tags. Add AI generated text on what's and how hacked summary.
+
+
+Use MachineLearning for security updates to prevent hacks and self assigned security patches.
+Use https://www.cve.org/ for extra security knowledge.
+    Use 13G for connections.
+    Patch apps for security measures. Use IPV6 servers.
+    Patch files for security. Use IPV6 servers.
+    Apply on all user's devices registered with GlobalID.
+    Apply various packages use, by The Repackage on IPV6 servers.
+    Install on all user's GlobalID devices.
+AutoUpdate from source https://github.com/VZ47/TheImmersiveSecurity/blob/c6bf79028dca79123aea76098dc0c76e35585232/TheImmerSiveSecuritySecurityPackageCompleteEdition.java
+Use ZeroHertz and 0ns update method.
+Use assigmated self update mechanism.
+
 
 Overview
 Line 1: TrackingID(ID of intrusion/hack/bug/vulnerability), Column 2:GlobalID.Expression.Task.Number and actions made(investigated, under investigation, investigation closed), Column 3: ChatGPT reply of legal authorities actions.
