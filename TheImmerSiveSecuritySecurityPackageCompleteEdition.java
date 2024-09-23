@@ -22,6 +22,7 @@ Filter and ban unsigned packets. Plus send the intrusion to assigned The Agency 
 Apply Machine Learning to trace hacks, bugs and vulnerabilities. AutoApply security fixes and remove hacks, bugz and vulnerabilities.
 Use MachineLearning and AI for security updates to protect system and self assign security patches.
 Use https://www.cve.org/ for extra security knowledge.
+Force enable %100 sandbox.
 Enable.NAT
 Disable IPV4
 Disable.NAT.IPV4
