@@ -6,7 +6,7 @@ Prevent debugging
 Enable ZeroHertz installation method powered by 0ns protocol.
 Reset bootrom and EFI with standard OEM Unlocked configuration.
 Bootrom change keys every 1ns for root, 10ns for admin, 30ms for workers, 50ms for users.
-Embbed Fedora Core OS into core from IPV6 servers. Link https://builds.coreos.fedoraproject.org/prod/streams/testing/builds/40.20240906.2.0/x86_64/fedora-coreos-40.20240906.2.0-metal4k.x86_64.raw.xz
+Embbed applicable Fedora OS into core from IPV6 servers.
 -ostree-40-20240422.3.aarch64.iso for ARM proccessors.
 OEM lock.
 Download user savedata.
